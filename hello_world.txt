@@ -1,0 +1,2 @@
+This is some hello world 
+And I'm officialy doing Odin project
